@@ -27,7 +27,7 @@
     "prepare": "husky"
   },
   "engines": {
-    "node": ">=18.18.0"
+    "node": ">=20.x"
   },
   "dependencies": {
     "@ai-sdk/amazon-bedrock": "1.0.6",
